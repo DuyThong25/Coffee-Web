@@ -320,7 +320,7 @@ section {
 @keyframes slideBg {
     0% {
         background-image: url(../images/home-img.jpeg);
-    }
+     } 
 
     25% {
         background-image: url(../images/home-img3.jpg);
